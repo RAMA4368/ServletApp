@@ -1,2 +1,2 @@
 # ServletApp
-Servlet 기초
+KOREA_IT 서블릿 기초
